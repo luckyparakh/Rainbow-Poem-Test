@@ -8,4 +8,5 @@ Yellow
 Blue
 Unicorn
 Red
+Indigo
 These are the colors of the rainbow.
